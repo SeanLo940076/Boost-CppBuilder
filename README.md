@@ -7,7 +7,8 @@ A guide for setting up Boost in C++ projects.
 1. Download the latest version of Boost from the [official GitHub repository](https://github.com/boostorg/boost) or from the [official website](https://www.boost.org/), and save the tar.gz file.
     ```bash
     cd Documents
-    wget https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz
+    ~~wget https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz~~
+    wget https://archives.boost.io/release/1.82.0/source/boost_1_82_0.tar.gz
     ```
 2. **Extract the archive and move it to your Documents directory:**
     ```bash
