@@ -9,10 +9,21 @@ A guide for setting up Boost in C++ projects.
     cd Documents
     wget https://archives.boost.io/release/1.82.0/source/boost_1_82_0.tar.gz
     ```
+
+    > Also available is the new version
+    ```bash
+    wgethttps://archives.boost.io/release/1.87.0/source/boost_1_87_0.tar.gz
+    ```
+
 2. **Extract the archive and move it to your Documents directory:**
     ```bash
     tar -xzvf boost_1_82_0.tar.gz
     cd ~/Documents/boost_1_82_0
+    ```
+
+    ```bash
+    tar -xzvf boost_1_87_0.tar.gz
+    cd ~/Documents/boost_1_87_0
     ```
 
     ```bash
